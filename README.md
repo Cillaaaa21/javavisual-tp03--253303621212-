@@ -1,4 +1,4 @@
-# Character Manager — TP3 (Java Visual SIH-6406
+# Character Manager — TP3 (Java Visual SIH-6406)
 
 Character Manager adalah project Java yang dibuat untuk mempelajari konsep class, object, constructor, enum, dan encapsulation. Pada tugas ini, project dikembangkan dengan menambahkan atribut mana, validasi mana agar tidak bernilai negatif, serta method isAlive() untuk memeriksa status hidup karakter.
 
