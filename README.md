@@ -2,6 +2,8 @@
 
 Character Manager adalah project Java yang dibuat untuk mempelajari konsep class, object, constructor, enum, dan encapsulation. Pada tugas ini, project dikembangkan dengan menambahkan atribut mana, validasi mana agar tidak bernilai negatif, serta method isAlive() untuk memeriksa status hidup karakter.
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-16 151604" src="https://github.com/user-attachments/assets/bf614c49-c640-4c55-b26b-e38762e5815a" />
+
 Struktur Folder
 
 CharacterManager/ 
