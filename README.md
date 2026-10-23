@@ -8,12 +8,19 @@ Struktur Folder
 
 CharacterManager/ 
 ├── src/ 
+
 ├── Main.java 
+
 │ └── com/ 
+
 │ └── unpri/ 
+
 │ └── charactermanager/ 
+
 │ └── model/ 
+
 │ ├── Character.java 
+
 │ └── CharacterType.java
 
 Identitas Mahasiswa
