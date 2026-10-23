@@ -6,22 +6,17 @@ Character Manager adalah project Java yang dibuat untuk mempelajari konsep class
 
 Struktur Folder
 
-CharacterManager/ 
-├── src/ 
-
-├── Main.java 
-
-│ └── com/ 
-
-│ └── unpri/ 
-
-│ └── charactermanager/ 
-
-│ └── model/ 
-
-│ ├── Character.java 
-
-│ └── CharacterType.java
+```
+CharacterManager/
+├── src/
+│   ├── Main.java
+│   └── com/
+│       └── unpri/
+│           └── charactermanager/
+│               └── model/
+│                   ├── Character.java
+│                   └── CharacterType.java
+```
 
 Identitas Mahasiswa
 
