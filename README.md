@@ -58,24 +58,24 @@ Link Google Docs : https://1drv.ms/w/c/711877E32029CA45/IQA0inSEJKxvQpdu6rFVqQig
 
 ### Screenshot MainWindow
 
-![Sebelum]<img width="1920" height="1020" alt="Screenshot 2026-10-24 000801" src="https://github.com/user-attachments/assets/649ab04d-ce6b-4298-af55-1c52d7709706" />
+[Sebelum]<img width="1920" height="1020" alt="Screenshot 2026-10-24 000801" src="https://github.com/user-attachments/assets/649ab04d-ce6b-4298-af55-1c52d7709706" />
 
-![Sesudah]<img width="1920" height="1020" alt="Screenshot 2026-10-24 000049" src="https://github.com/user-attachments/assets/0e935c62-0c06-4611-9030-30a004668b8b" />
+[Sesudah]<img width="1920" height="1020" alt="Screenshot 2026-10-24 000049" src="https://github.com/user-attachments/assets/0e935c62-0c06-4611-9030-30a004668b8b" />
 
 
-### Aliran Data dan MVC
+# Aliran Data dan MVC
 
 Main.java membuat data karakter dan menyiapkan aplikasi.
 CharacterManager bertugas menyimpan serta mengelola daftar karakter.
 CharacterController menjadi penghubung antara pengelolaan data dan View.
 MainWindow menampilkan daftar karakter beserta statistik pada antarmuka GUI.
 
-### Karakter Baru
+# Karakter Baru
 
 - Bima — WARRIOR level 7, dipilih sebagai karakter petarung dengan level lebih tinggi.
 - Sakura — HEALER level 6, dipilih untuk mewakili karakter penyembuh dengan kemampuan yang berbeda.
 
-### Analisis GUI & MVC
+# Analisis GUI & MVC
 
 Google Docs: https://1drv.ms/w/c/711877E32029CA45/IQBwEi4NWF6lSL-Aa5ysh5ilAdBXFKsUnWUFoWzMojRLUY4?e=NFhwo6
 
