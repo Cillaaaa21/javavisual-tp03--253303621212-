@@ -80,6 +80,35 @@ MainWindow menampilkan daftar karakter beserta statistik pada antarmuka GUI.
 Google Docs: https://1drv.ms/w/c/711877E32029CA45/IQBwEi4NWF6lSL-Aa5ysh5ilAdBXFKsUnWUFoWzMojRLUY4?e=NFhwo6
 
 
+# TP10 — Theming, Properti Komponen & Analisis MVC
+
+# 1. Screenshot Sebelum dan Sesudah
+
+**Sebelum (v0.3)**
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 204002" src="https://github.com/user-attachments/assets/bfe81511-34cf-49a1-bf37-c78c52044126" />
+
+**Sesudah (v0.4)**
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 204625" src="https://github.com/user-attachments/assets/8b628396-0220-431a-9458-b6f387fe85f7" />
+
+# 2. Analisis Penggunaan AppTheme
+
+Warna pada aplikasi Character Manager disimpan di dalam class `AppTheme` agar pengaturan tampilan lebih terpusat dan mudah diubah. Warna tidak disimpan di dalam class `Character` karena class tersebut bertugas mengelola data karakter, bukan mengatur tampilan aplikasi. Dengan menggunakan `AppTheme`, perubahan warna dapat dilakukan tanpa harus mengubah data karakter. Hal ini juga membuat pemisahan tugas antara Model dan View dalam konsep MVC menjadi lebih jelas.
+
+# 3. Dua Properti Tambahan
+
+1. **ToolTipText**  
+   Digunakan untuk menampilkan informasi karakter seperti nama, role, HP, dan Attack Power ketika kursor diarahkan ke kartu karakter. Properti ini membantu pengguna melihat informasi tambahan dengan mudah.
+
+2. **Border berdasarkan Role**  
+   Setiap kartu karakter memiliki warna border yang berbeda sesuai dengan role-nya. Properti ini membuat tampilan setiap karakter lebih mudah dibedakan dan terlihat lebih menarik.
+
+# 4. Link Google Docs : https://1drv.ms/w/c/711877E32029CA45/IQATJ1L9Sk71RJ08X56HP-_pAZVtmInJs3_DcKY6pZhvxqU?e=28qSEB
+
+
+
+
    
 
 
