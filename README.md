@@ -104,7 +104,8 @@ Warna pada aplikasi Character Manager disimpan di dalam class `AppTheme` agar pe
 2. **Border berdasarkan Role**  
    Setiap kartu karakter memiliki warna border yang berbeda sesuai dengan role-nya. Properti ini membuat tampilan setiap karakter lebih mudah dibedakan dan terlihat lebih menarik.
 
-# 4. Link Google Docs : https://1drv.ms/w/c/711877E32029CA45/IQATJ1L9Sk71RJ08X56HP-_pAZVtmInJs3_DcKY6pZhvxqU?e=28qSEB
+# 4. Link Google Docs : 
+https://1drv.ms/w/c/711877E32029CA45/IQATJ1L9Sk71RJ08X56HP-_pAZVtmInJs3_DcKY6pZhvxqU?e=28qSEB
 
 
 
